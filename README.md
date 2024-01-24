@@ -43,8 +43,8 @@
                              
 This example demonstrates a dataset comprised of gaussian pulse and chirp signals.
 
-![alt text](https://llcad-github.llan.ll.mit.edu/kwmcclintick/SigTorch/blob/main/chirp.png)
-![alt text](https://llcad-github.llan.ll.mit.edu/kwmcclintick/SigTorch/blob/main/pulse.png)
+![alt text](https://github.com/kwmcclintick/sigtorch/blob/main/chirp.png)
+![alt text](https://github.com/kwmcclintick/sigtorch/blob/main/pulse.png)
 
 To demonstrate classification capabilities, we estimate one unknown parameters for every sample observed: if the sample is from the gaussian pulse class or the chirp class. The following excerpt from main.py is run:
 ```
